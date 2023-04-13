@@ -1,4 +1,4 @@
-### Un poco cobre mi
+### Un poco sobre mi
 Hola 👋, me llamo Julio. Actualmente estoy desempleado y estudiando Desarrollo de Aplicaciones Web con la intención de trabajar como Desarrollador de Software en un futuro.
 
 ### Algunas de las tecnologías que se usar
