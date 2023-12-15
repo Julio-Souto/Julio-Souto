@@ -1,5 +1,5 @@
 ### Un poco sobre mi
-Hola 👋, me llamo Julio. Actualmente estoy desempleado y estudiando Desarrollo de Aplicaciones Web con la intención de trabajar como Desarrollador de Software en un futuro.
+Hola 👋, me llamo Julio. Soy Desarrollador de Software y actualmente me encuentro trabajando con Robocorp y Python para la creación de bots enfocados a RPAs.
 
 ### Algunas de las tecnologías que se usar
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"> | HTML | <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"> | CSS |
